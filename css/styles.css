@@ -1,0 +1,25 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.section h2 {
+  text-decoration: underline;
+}
+
+.page-title {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+div.description {
+  background-color: lightpink;
+}
+
+div.ingredients {
+  background-color: lightgreen;
+}
+
+div.steps {
+  background-color: lightblue;
+}
